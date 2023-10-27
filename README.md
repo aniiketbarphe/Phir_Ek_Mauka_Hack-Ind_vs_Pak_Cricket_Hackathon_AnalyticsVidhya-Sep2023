@@ -93,8 +93,29 @@ You need to submit the solution file similar to the sample submission file. The 
 
 **🏆Fourth to Tenth position: Gen AI Program worth INR 60K**
 
+# Summary
 
-Competition Link:-
+**a) Best Submission Score:-**
 
-https://datahack.analyticsvidhya.com/contest/phir-ek-mauka/?utm_source=datahack&utm_medium=footer#LeaderBoard
+**1) Public Leaderboard :-** 12.5181630135
+
+**2) Private Leaderboard :-** 10.8934230922	
+#
+
+**b) Best Model:-**
+
+**b1) Target Variable :-** 'RUN_SCORED' [ Ensemble Technique (SARIMA + SARIMA with best combination of parameters)]
+
+**b2) Target Variable :-** 'Wickets Taken' [ Ensemble Technique (SARIMA + SARIMA with best combination of parameters)]
+#
+
+**c) Competition Link:-**  https://datahack.analyticsvidhya.com/contest/phir-ek-mauka/?utm_source=datahack&utm_medium=footer#LeaderBoard
+
+#
+
+**d) Rank Scored:-**
+
+d1) **02** out of **757** registered participants (**Private Leaderboard**)
+
+d2) **20** out of **757** registered participants (**Public Leaderboard**)
 
