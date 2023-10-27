@@ -2,6 +2,10 @@
 
 # Phir_Ek_Mauka_Hack-Ind_vs_Pak_Cricket_Hackathon_AnalyticsVidhya-Sep2023
 
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/aniiketbarphe/Python_study/blob/main/Winner-2nd.jpg"> 
+</p>
+
 Are you a cricket and data science fan?🏏
 
 Welcome to Phir Ek Mauka Hack- Experience the World's Biggest Cricket Hackathon before the upcoming epic clash between India and Pakistan at the ICC World Cup on Oct 14, 2023. It's a celebration of cricket passion and data science wizardry – a must for every cricket fan and data enthusiast!
